@@ -6,3 +6,6 @@
 ``` python
 greeting = "Hello, world"
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Create portfolio
+- [ ] Learn GitHub
